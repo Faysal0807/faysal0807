@@ -1,6 +1,5 @@
 Hi, I'm Faysal Dhimbil 👋
-
-Cybersecurity analyst based in St. Paul, MN.
+  Cybersecurity analyst based in St. Paul, MN.
 B.A.S. in Cybersecurity & Defense — Metropolitan State University.
 Currently working as an IoT Security Support Analyst at Alarm.com while building my security portfolio and pursuing CompTIA CySA+.
 
