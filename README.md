@@ -25,11 +25,11 @@ Cybersecurity analyst based in St. Paul, MN. B.A.S. in Cybersecurity & Defense �
 
 ## 📂 Featured Projects
 
-- **[splunk-soc-lab](https://github.com/faysal0807/splunk-soc-lab)** — Home SOC lab, 700k+ real log events, MITRE-mapped detection rule — [writeup](https://medium.com/@faysaldhimbil87/building-a-home-soc-lab-real-threat-detection-with-splunk-on-macos-e24e3e065305)
-- **[athena-pentest](https://github.com/faysal0807/athena-pentest)** — Full-scope pentest, SMB enumeration, command injection, root access — [writeup](https://medium.com/@faysaldhimbil87/penetration-test-report-athena-tryhackme-b4494f559f0a)
-- **[ms17-010-vulnerability-case-study](https://github.com/faysal0807/ms17-010-vulnerability-case-study)** — EternalBlue/MS17-010 vulnerability management case study — [writeup](https://medium.com/@faysaldhimbil87/vulnerability-management-case-study-ms17-010-on-windows-7-tryhackme-blue-de51084c7345)
-- **[pihole-wireguard-lab](https://github.com/faysal0807/pihole-wireguard-lab)** — Raspberry Pi DNS sinkhole + WireGuard VPN for network privacy
-
+- **splunk-soc-lab** — Home SOC lab, 700k+ real log events, MITRE-mapped detection rule — [writeup](https://medium.com/@faysaldhimbil87/building-a-home-soc-lab-real-threat-detection-with-splunk-on-macos-e24e3e065305)
+- **athena-pentest** — Full-scope pentest, SMB enumeration, command injection, root access — [writeup](https://medium.com/@faysaldhimbil87/penetration-test-report-athena-tryhackme-b4494f559f0a)
+- **ms17-010-vulnerability-case-study** — EternalBlue/MS17-010 vulnerability management case study — [writeup](https://medium.com/@faysaldhimbil87/vulnerability-management-case-study-ms17-010-on-windows-7-tryhackme-blue-de51084c7345)
+- **pihole-wireguard-lab** — Raspberry Pi DNS sinkhole + WireGuard VPN for network privacy
+  
 ---
 
 ## 📝 Technical Blog
