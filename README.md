@@ -4,7 +4,8 @@ B.A.S. in Cybersecurity & Defense — Metropolitan State University.
 Currently working as an IoT Security Support Analyst at Alarm.com while building my security portfolio and pursuing CompTIA CySA+.
 
 🔭 What I'm Working On
-  Home SOC lab with Splunk SIEM — live threat detection on real endpoint data
+
+Home SOC lab with Splunk SIEM — live threat detection on real endpoint data
 Active Directory attack & defense lab (coming soon)
 Pursuing CompTIA CySA+
 
